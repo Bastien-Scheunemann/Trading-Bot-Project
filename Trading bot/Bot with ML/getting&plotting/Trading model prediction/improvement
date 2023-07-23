@@ -1,0 +1,7 @@
+next improvement of the prediction model :
+
+        - try to use the next day prediction to simulate the next 10 days prediction by reuse the predicted data
+        - change the date and the time to predict for example the next 10 hours
+        - try to add trading information like MMA, MME, RSI... in order that the prediction is not only based on the close price
+
+best way to improve is using SVM algorithms but not KNN and implied Volume and volatility
